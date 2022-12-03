@@ -1,0 +1,3 @@
+El famoso “Stop” consiste en elegir una letra del abecedario y con esta decir en el menor tiempo posible, un nombre, apellido, ciudad, cosa, color, animal y comida.
+Este juego fue hecho en c++, el cual cuanta con caracterisiticas de variable, cuenta con datos random "rand" y cuenta con un medidor de tiempo, es un juego didactico hecho exclusivamente para proyecto de clase.
+Echo por Cristian Marquez Arcila y Angela Carolina Suarez
